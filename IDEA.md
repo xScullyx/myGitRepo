@@ -1,3 +1,3 @@
 # Fikrim
 
-Bir fikrim benim dünya daha güzel olabilir
+* Bir fikrim benim dünya daha güzel olabilir.
